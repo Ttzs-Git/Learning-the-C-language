@@ -14,7 +14,7 @@ This section contains the following:
 - 3. If there is a problem with the code, download the code area code for comparison
 - 4. When the content of the code area is practiced, the algorithm question area or small project area is reproduced, adapted, and surpassed
 #### statement
-If you find that a problem in a certain area should have a better solution to complete, or my notes and code are wrong, please correct it through **My Email**, I will reply within 3 working days, and please call your name; Everyone who loves C language is also welcome to join in.
+If you find that a problem in a certain area should have a better solution to be completed, or my notes and code are wrong, please correct it through **My Email**, I will reply within 3 working days, and please indicate your intention; Everyone who loves C language is also welcome to join in.
 Our goal is to learn C well and lay a solid foundation.
 Freshman year, i.e., between September 2024 and January 2025, will be updated daily;
 Bigger, updated from time to time

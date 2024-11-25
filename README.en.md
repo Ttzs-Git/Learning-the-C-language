@@ -14,7 +14,10 @@ This section contains the following:
 - 3. If there is a problem with the code, download the code area code for comparison
 - 4. When the content of the code area is practiced, the algorithm question area or small project area is reproduced, adapted, and surpassed
 #### statement
-If you find a better solution in a certain area, or if there is a mistake in my notes, please correct them; We also welcome everyone who loves C language to join us Our goal is to learn C language well and lay a solid foundation In the first year, that is, between September 2024 and January 2025, we will update it daily Grow up and update it from time to time
+If you find that a problem in a certain area should have a better solution to be completed, or my notes and code are wrong, please correct it through **My Email**, I will reply within 3 working days, and please indicate your intention; Everyone who loves C language is also welcome to join in.
+Our goal is to learn C well and lay a solid foundation.
+Freshman year, i.e., between September 2024 and January 2025, will be updated daily;
+Bigger, updated from time to time
 
 #### Open Source License
 This project is licensed under the AGPL-3.0 open source license.
